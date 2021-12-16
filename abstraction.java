@@ -31,7 +31,7 @@ class circle extends shape{
     }
     @Override
     void printArea() {
-        System.out.println("The area of circle is "+ (float)(3.1415*a*b));
+        System.out.println("The area of circle is "+ (float)(3.1415*a*a));
     }
 }
 public class abstraction {
